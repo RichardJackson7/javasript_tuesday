@@ -5,7 +5,7 @@ Tu trouveras dans ce repo les exercices de chauffe 1 & 2
 Puis il y aura cette calculatrice
 (double click sur part1.html)
 
-Voici la source dont je me suis très fortement inspiré pour faire cette calculatrice (et du coup les consignes pour les exos sont passés à la trappe
+Voici la source dont je me suis très fortement inspiré pour faire cette calculatrice (et du coup les consignes pour les exos sont passées à la trappe
 
 https://www.youtube.com/watch?v=adWGGnY58ek
 
